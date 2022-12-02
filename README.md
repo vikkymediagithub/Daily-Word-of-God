@@ -1,2 +1,2 @@
 # Daily-Word-of-God
-With a tailwindcc Design
+With a tailwindcss Design
